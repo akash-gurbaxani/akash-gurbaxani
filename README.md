@@ -3,7 +3,7 @@
 </p> 
 
 <h1 align="center">Hi 👋, I'm Akash Gurbaxani</h1>
-<h2 align="center">A passionate Java Backend Developer.</h2>
+<h2 align="center">Java Backend Developer</h2>
 
 <h3>🚀 About Me:</h3>
 
