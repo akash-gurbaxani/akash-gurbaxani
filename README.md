@@ -7,10 +7,9 @@
 
 <h3>🚀 About Me:</h3>
 
-- 💻 **Java Backend Developer** specializing in **Java, Spring Boot, and Microservices**.  
-- ☁️ Exploring **AWS Cloud, Jenkins, and DevOps**.  
-- 📚 Passionate about **System Design and Performance Optimization**.  
-- 🔍 Preparing for **SQL, NoSQL, and Design Pattern interviews**.  
+- 🔭 I’m currently working with **Spring Boot, Hibernate, Microservices, AWS**
+- 🌱 I’m currently learning **DevOps & Cloud Technologies**
+- 💬 Ask me about **Java, Spring Boot, Microservices, SQL, NoSQL**
 - ✨ Looking for new **opportunities in Java & Microservices development**.  
 - 💬 Ask me about **Java, Spring Boot, Hibernate, and Microservices**.  
 - 📧 Reach me at: **akashgurbaxani@example.com**  
@@ -54,7 +53,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=akash-gurbaxani&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akash-gurbaxani&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgurbaxani&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-gurbaxani&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akash-gurbaxani&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
