@@ -7,8 +7,8 @@
 
 <h3>🚀 About Me:</h3>
 
-- 🔭 I’m currently working with **Spring Boot, Hibernate, Microservices, AWS**
-- 🌱 I’m currently learning **DevOps & Cloud Technologies**
+- 🔭 I’m currently working with **Java, Spring Boot, Hibernate, Microservices, Git, MySQL, Docker, AWS Cloud**
+- 🌱 I’m currently learning **DevOps, CI/CD, Jenkins & Cloud Technologies**
 - 💬 Ask me about **Java, Spring Boot, Microservices, SQL, NoSQL**
 - ✨ Looking for new **opportunities in Java & Microservices development**.  
 - 💬 Ask me about **Java, Spring Boot, Hibernate, and Microservices**.  
@@ -18,8 +18,6 @@
 
 ## 🌐 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-gurbaxani/)  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash-gurbaxani)
 
 ---
 
@@ -47,10 +45,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📊 **GitHub Stats:**
 <div align="center">
-
+  
+## 📊 **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=akash-gurbaxani&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akash-gurbaxani&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-gurbaxani&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
